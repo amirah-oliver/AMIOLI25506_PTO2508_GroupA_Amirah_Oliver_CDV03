@@ -1,9 +1,9 @@
 # **Amirah Oliver**
 
-📧 [amirah.oliver@gmail.com](mailto:amirah.oliver@gmail.com)
-🌐 GitHub: github.com/amirah-oliver
-💼 LinkedIn: linkedin.com/in/amirah-oliver-50360a317
-📍 Cape Town, South Africa
+* 📧 [amirah.oliver@gmail.com](mailto:amirah.oliver@gmail.com)
+* 🌐 GitHub: github.com/amirah-oliver
+* 💼 LinkedIn: linkedin.com/in/amirah-oliver-50360a317
+* 📍 Cape Town, South Africa
 
 ---
 
