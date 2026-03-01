@@ -1,5 +1,3 @@
----
-
 # **Amirah Oliver**
 
 📧 [amirah.oliver@gmail.com](mailto:amirah.oliver@gmail.com)
