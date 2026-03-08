@@ -87,6 +87,3 @@ Focused on Front-End Development
 * Open to junior developer, internship, or trainee opportunities
 
 ---
-
-
-If you want, I can also help you make a **stronger version** that looks more like a real junior developer CV recruiters expect (with better wording + ATS-friendly formatting).
