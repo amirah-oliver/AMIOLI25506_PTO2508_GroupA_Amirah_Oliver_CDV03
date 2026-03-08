@@ -79,9 +79,6 @@ HTML | CSS | JavaScript | Local Storage | API Fetching | Netlify Deployment
 GitHub Repository:  
 https://github.com/amirah-oliver
 
-Live Deployment:  
-(Add your Netlify URL here)
-
 ---
 
 ### Frontend Practice Projects
@@ -112,7 +109,7 @@ Key Areas of Study:
 - Building dynamic web applications
 - Git and GitHub version control
 
-(Add institution name and training dates here)
+Institution : CodeSpace Academy
 
 ---
 
